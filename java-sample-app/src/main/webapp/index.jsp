@@ -1,6 +1,6 @@
 //<html>
 <head>
-<title>Hello mani!</title>
+<title>Hello zippyops!</title>
 </head>
 <body>
 	<h1>project by sudalai</h1>
